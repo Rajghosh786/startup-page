@@ -1,0 +1,90 @@
+html, body{
+    background-image: url(header.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    font-family: 'montserrat' sans-serif;
+}
+.buffer{
+   height: 13rem;
+}
+h1{
+    color: #e2dbdb;
+    font-size: 3rem;
+}
+hr{
+    max-width: 65px;
+    color: #f16600;
+    border: 3px solid #f05f44;
+    opacity: 1;
+    margin: 20px auto 20px auto;
+}
+.btn-xl{
+    font-weight: 700;
+    border-radius: 30px;
+    text-transform: uppercase;
+    background-color: #f05f44;
+    padding: 16px 32px;
+    border-color: #f05f44;
+}
+
+.btn-xl:hover{
+    border: 4px solid #ee4b08;
+    background: #ee4b08;
+}
+
+/* below is created by me
+body, html{
+    background-image: url(header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center; this means image would be both vertically and horizontally center
+    width: 100%;
+    height: 100%;
+    font-family: 'montserrat', sans-serif;
+}
+ 
+.biggestevent{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+.biggestevent1{
+    font-size: 60px;
+    text-align: center;
+}
+.div1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    
+}
+.div2{
+    text-align: center;
+   
+    margin-top: 205px;
+}
+hr{
+    max-width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #f16600;
+    border: 3px solid #f16600;
+    opacity: 3;
+}
+.bt1{
+    padding: 20px 35px 20px 35px;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #f16600;
+    border: 3px solid #f16600;
+} */
